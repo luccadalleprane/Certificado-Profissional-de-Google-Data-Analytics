@@ -1,29 +1,46 @@
-Certificado Profissional de Google Data Analytics
-Este repositório contém os exercícios práticos realizados durante o Certificado Profissional de Google Data Analytics, oferecido pela Coursera. O objetivo deste curso foi aprimorar minhas habilidades em análise de dados e me preparar para aplicar essas competências em projetos reais.
+# Certificado Profissional de Google Data Analytics
 
-Sobre o Curso
-O curso abrange os seis passos essenciais da análise de dados:
+Este repositório contém os **exercícios práticos** realizados durante o curso **Certificado Profissional de Google Data Analytics**, oferecido pela **Coursera**. O objetivo do curso foi aprimorar minhas habilidades em **análise de dados** e me preparar para aplicar essas competências em projetos reais.
 
-Perguntar: Definir as perguntas certas a serem respondidas com os dados.
-Preparar: Organizar e limpar os dados para análise.
-Processar: Manipular e transformar os dados para análise mais aprofundada.
-Analisar: Aplicar métodos analíticos para extrair insights.
-Compartilhar: Criar visualizações e apresentar os resultados de maneira clara.
-Agir: Utilizar os insights para tomar decisões informadas.
-Durante o curso, foram abordadas ferramentas como SQL, R, Tableau e planilhas (Google Sheets/Excel), com ênfase na análise e visualização de dados, resolução de problemas e comunicação de resultados.
+## Sobre o Curso
 
-O que está neste Repositório
-Este repositório inclui os seguintes exercícios e projetos realizados ao longo do curso:
+O curso abrange os **seis passos essenciais** da análise de dados:
 
-Exercícios de SQL: Manipulação de bancos de dados e consultas complexas.
-Projetos em R: Análise de dados com scripts em R.
-Visualizações em Tableau: Criação de gráficos e dashboards interativos.
-Análises em Planilhas: Organização e análise de grandes volumes de dados em Google Sheets/Excel.
-Todos os arquivos e códigos são exemplos práticos das habilidades adquiridas durante o curso. Decidi guardar esses projetos aqui no GitHub para compartilhar meu aprendizado e para servir como referência em minha jornada profissional em análise de dados.
+1. **Perguntar**: Definir as perguntas certas a serem respondidas com os dados.
+2. **Preparar**: Organizar e limpar os dados para análise.
+3. **Processar**: Manipular e transformar os dados para análise mais aprofundada.
+4. **Analisar**: Aplicar métodos analíticos para extrair insights.
+5. **Compartilhar**: Criar visualizações e apresentar os resultados de maneira clara.
+6. **Agir**: Utilizar os insights para tomar decisões informadas.
 
-Como Usar
-Cada pasta ou arquivo contém o exercício específico que realizei no curso. Para executar os scripts ou abrir as visualizações, basta seguir os passos descritos em cada arquivo README individual, caso necessário.
+Durante o curso, trabalhei com **SQL**, **R**, **Tableau** e **planilhas (Google Sheets/Excel)**, com ênfase na análise e visualização de dados, resolução de problemas e comunicação de resultados.
 
-Conclusão
-Este repositório é uma demonstração das habilidades que desenvolvi durante o Certificado Profissional de Google Data Analytics. As técnicas e ferramentas que aprendi são essenciais para profissionais de análise de dados, e agora estou aplicando esses conhecimentos em projetos reais.
+---
+
+## 📂 O que você encontrará neste repositório
+
+Este repositório contém os seguintes exercícios e projetos realizados ao longo do curso:
+
+- **Exercícios de SQL**: Manipulação de bancos de dados e consultas complexas.
+- **Projetos em R**: Análise de dados com scripts em R, incluindo manipulação de dados e visualizações.
+- **Visualizações em Tableau**: Criação de gráficos e dashboards interativos para análise de dados.
+- **Análises em Planilhas**: Organização e análise de grandes volumes de dados em Google Sheets e Excel.
+
+Cada arquivo foi criado para colocar em prática os conhecimentos adquiridos ao longo do curso.
+
+---
+
+## 📝 Como usar
+
+Cada pasta ou arquivo contém um exercício específico. Para executar os scripts ou visualizar as análises, siga os passos descritos dentro de cada arquivo README individual (se necessário).
+
+---
+
+## 💡 Conclusão
+
+Este repositório serve como uma demonstração das habilidades adquiridas durante o curso **Certificado Profissional de Google Data Analytics**. As ferramentas e técnicas que aprendi são cruciais para a análise de dados no mercado atual, e estou agora aplicando esses conhecimentos em projetos reais.
+
+---
+
+Sinta-se à vontade para explorar os projetos e entrar em contato caso tenha interesse em discutir mais sobre as análises ou sobre meu trabalho!
 
