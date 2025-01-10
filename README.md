@@ -32,8 +32,7 @@ Cada arquivo foi criado para colocar em prática os conhecimentos adquiridos ao 
 
 ## 📝 Como usar
 
-Cada pasta ou arquivo contém um exercício específico. Para executar os scripts ou visualizar as análises, siga os passos descritos dentro de cada arquivo README individual (se necessário).
-
+Cada pasta ou arquivo contém um exercício específico.
 ---
 
 ## 💡 Conclusão
