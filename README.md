@@ -33,6 +33,7 @@ Cada arquivo foi criado para colocar em prática os conhecimentos adquiridos ao 
 ## 📝 Como usar
 
 Cada pasta ou arquivo contém um exercício específico.
+
 ---
 
 ## 💡 Conclusão
@@ -42,4 +43,3 @@ Este repositório serve como uma demonstração das habilidades adquiridas duran
 ---
 
 Sinta-se à vontade para explorar os projetos e entrar em contato caso tenha interesse em discutir mais sobre as análises ou sobre meu trabalho!
-
