@@ -6,7 +6,7 @@ Este repositório contém os **exercícios práticos** realizados durante o curs
 
 O curso abrange os **seis passos essenciais** da análise de dados:
 
-
+![Fluxo do Processo](imagens/fluxo.svg)
 
 1. **Perguntar**: Definir as perguntas certas a serem respondidas com os dados.
 2. **Preparar**: Organizar e limpar os dados para análise.
