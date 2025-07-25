@@ -21,6 +21,5 @@ Durante o curso, trabalhei com **SQL**, **R**, **Tableau** e **planilhas (Google
 
 ## 💡 Conclusão
 
-Este repositório serve como uma demonstração das habilidades adquiridas durante o curso **Certificado Profissional de Google Data Analytics**. As ferramentas e técnicas que aprendi são cruciais para a análise de dados no mercado atual, e estou agora aplicando esses conhecimentos em projetos reais.
-
+Este repositório serve como uma demonstração das habilidades adquiridas durante o curso **Certificado Profissional de Google Data Analytics**. As ferramentas e técnicas que aprendi são cruciais para a análise de dados no mercado atual.
 ---
